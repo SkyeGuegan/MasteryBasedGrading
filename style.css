@@ -1,0 +1,23 @@
+body {
+  background-color: #C0C0C0;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+  }
+
+h2 {
+    color: Maroon;
+    font-family: "Brush Script MT", cursive;
+    font-size: 28px;  
+    text-align: center;
+  }
+
+h5#fancy {
+    text-shadow: 3px, 2px, #ffffff;
+}
+
+.center {
+    text-align: center;
+    }
